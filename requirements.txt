@@ -1,0 +1,9 @@
+graphviz==0.13.2
+opencv-python==4.1.1.26
+ipycanvas==0.4.0
+jupyterlab==1.2.3
+Keras==2.3.1
+matplotlib==3.1.1
+numpy==1.17.4
+pydot==1.4.1
+tensorflow==2.0.0
